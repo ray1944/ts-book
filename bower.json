@@ -1,0 +1,26 @@
+{
+  "name": "ts-book",
+  "description": "an example project for Typescript",
+  "main": "index.js",
+  "authors": [
+    "Ray1944"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "ts-book"
+  ],
+  "homepage": "https://github.com/ray1944/ts-book",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {
+    "jasmine-core": "jasmine#^2.6.1"
+  }
+}
