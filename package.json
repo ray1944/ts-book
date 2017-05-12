@@ -1,0 +1,32 @@
+{
+  "name": "ts-book",
+  "version": "1.0.0",
+  "description": "an example project for Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ray1944/ts-book.git"
+  },
+  "keywords": [
+    "ts-book"
+  ],
+  "author": "Ray1944",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ray1944/ts-book/issues"
+  },
+  "homepage": "https://github.com/ray1944/ts-book#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-tslint": "^8.0.0",
+    "gulp-typescript": "^3.1.6",
+    "tslint": "^5.2.0",
+    "typescript": "^2.3.2"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
